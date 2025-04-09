@@ -1,4 +1,3 @@
-# Sistema de Gestión de Bibliotecas con Herencia (POO en Python)
 
 class Material:
     """Clase base para materiales de la biblioteca"""
